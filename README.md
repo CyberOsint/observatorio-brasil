@@ -105,23 +105,7 @@ https://antifraudebrasil.com/ – Localize pessoas e informações por CPF (vali
 https://tudosobretodos.info/ – Busque pessoas e empresas com muitas informações reunidas
 
 https://www.registrocivil.org.br/ – Certidões de nascimento, casamento e óbito
-
 https://www.registrodeimoveis.org.br/ – Consultas e serviços de registro de imóveis no Brasil
 
-https://www.consultaspublicas.com.br
-https://dados.gov.br
-https://www.portaltransparencia.gov.br
-https://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp
-https://cadastroempresa.com.br
-https://cnpj.biz
-https://www.jusbrasil.com.br
-https://www.tse.jus.br
-https://www.tjsp.jus.br
-https://www.tjac.jus.br
-https://www.tjmg.jus.br
-https://www.tjpr.jus.br
-https://esaj.tjsp.jus.br
-https://www.sintegra.gov.br
-https://servicos.receita.fazenda.gov.br/Servicos/meuinss
 
 
