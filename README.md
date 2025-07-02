@@ -98,5 +98,5 @@ https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm  - Cálculo digitos de ve
 https://antifraudebrasil.com/   -   Encontre qualquer pessoa em segundo  ajuda você a localizar informações qualquer CPF, seja para encontrar um golpista ou validar
 https://tudosobretodos.info/   -Procure pessoas e empresas Encontre muita informação.
 https://www.registrocivil.org.br/  -  Oferece serviços de emissão de certidões de nascimento, casamento, óbito
-https://www.registrodeimoveis.org.br/  - Oferece serviços relacionados ao registro de imóveis no Brasil, permitindo consultas e acesso
+https://www.registrodeimoveis.org.br/  - Oferece serviços relacionados ao registro de imóveis no Brasil, permitindo consultas e acesso.
 
