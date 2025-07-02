@@ -61,12 +61,6 @@ Categorias para Organização de Links OSINT (Brasil)
 
 # Categorias para Organização de Links OSINT (Brasil)
 
-### 1. Plataformas OSINT Brasileiras  
-Plataformas especializadas, CTFs e hubs de ferramentas nacionais.
-
-### 2. Repositórios Colaborativos e GitHub  
-Listas de recursos mantidas por comunidades e especialistas brasileiros.
-
 ### 3. Consultas Públicas e Dados Governamentais  
 Sites oficiais com dados de CPF, CNPJ, tribunais, eleições, benefícios, entre outros.
 
@@ -92,5 +86,9 @@ Guias, vídeos, blogs e cursos nacionais sobre investigação com fontes abertas
 Sites que agregam múltiplas funções ou oferecem interfaces de análise.
 
 
-
+## Consultas Públicas e Dados Governamentais 
+https://www.escavador.com/ 
+https://antifraudebrasil.com/
+https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.
+https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm
 
