@@ -82,8 +82,9 @@ Iniciativas como Aos Fatos, Fiquem Sabendo, Infoamazonia, entre outros.
 ### Ferramentas Automatizadas e Dashboards  
 Sites que agregam múltiplas funções ou oferecem interfaces de análise.
 
+### subdominios para encontra em sites
+sites para acha subdominios para encontra numa investigação sites que talvez esteja desprotegido 
 
-#Consultas Públicas e Dados Governamentais
-https://tudosobretodos.info/
+
 
 
