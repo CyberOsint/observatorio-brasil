@@ -91,12 +91,20 @@ sites para acha subdominios para encontra numa investigação sites que talvez e
 ## Consultas Públicas e Dados Governamentais
 
 Pessoas (CPF, Benefícios, Documentos, etc.)
-https://cadunico.dataprev.gov.br/#/home – Verificação de benefícios sociais do Governo.
-https://portaldatransparencia.gov.br/   -  Gastos públicos, benefícios, servidores.
-https://www.escavador.com/    - consulta de processos 
-https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm  - Cálculo digitos de verificação - CPF CNPJ CAEPF
-https://antifraudebrasil.com/   -   Encontre qualquer pessoa em segundo  ajuda você a localizar informações qualquer CPF, seja para encontrar um golpista ou validar
-https://tudosobretodos.info/   -Procure pessoas e empresas Encontre muita informação.
-https://www.registrocivil.org.br/  -  Oferece serviços de emissão de certidões de nascimento, casamento, óbito
-https://www.registrodeimoveis.org.br/  - Oferece serviços relacionados ao registro de imóveis no Brasil, permitindo consultas e acesso.
+
+https://cadunico.dataprev.gov.br/#/home – Verificação de benefícios sociais do Governo
+
+https://portaldatransparencia.gov.br/ – Gastos públicos, benefícios, servidores
+
+https://www.escavador.com/ – Consulta de processos
+
+https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm – Cálculo de dígitos verificadores (CPF, CNPJ, CAEPF)
+
+https://antifraudebrasil.com/ – Localize pessoas e informações por CPF (validação e investigações)
+
+https://tudosobretodos.info/ – Busque pessoas e empresas com muitas informações reunidas
+
+https://www.registrocivil.org.br/ – Certidões de nascimento, casamento e óbito
+
+https://www.registrodeimoveis.org.br/ – Consultas e serviços de registro de imóveis no Brasil
 
