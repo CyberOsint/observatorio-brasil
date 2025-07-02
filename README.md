@@ -57,34 +57,4 @@ Este projeto respeita os princípios da **LGPD (Lei Geral de Proteção de Dados
 
 Para contribuições, sugestões ou colaborações, entre em contato via GitHub.
 
-Categorias para Organização de Links OSINT (Brasil)
-Plataformas OSINT brasileiras
-Plataformas especializadas, CTFs e hubs de ferramentas nacionais.
-
-Repositórios colaborativos e GitHub
-Listas de recursos mantidas por comunidades e especialistas brasileiros.
-
-Consultas públicas e dados governamentais
-Sites oficiais com dados de CPF, CNPJ, tribunais, eleições, benefícios, etc.
-
-Ferramentas de análise de redes sociais
-Recursos para investigar perfis, conexões e conteúdos sociais no Brasil.
-
-Geoanálise e dados ambientais
-Fontes como INPE, MapBiomas, dados municipais e estaduais de geolocalização.
-
-Fontes jurídicas e processuais
-Tribunais, diários oficiais, jurisprudência e sistemas de acompanhamento processual.
-
-Documentos e registros públicos
-Publicações oficiais, portais de transparência, boletins, licitações.
-
-Projetos jornalísticos e investigativos
-Iniciativas como Aos Fatos, Fiquem Sabendo, Infoamazonia, entre outros.
-
-Tutoriais e treinamentos OSINT Brasil
-Guias, vídeos, blogs e cursos nacionais sobre investigação com fontes abertas.
-
-Ferramentas automatizadas e dashboards
-Sites que agregam múltiplas funções ou oferecem interfaces de análise.
 
