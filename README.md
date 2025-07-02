@@ -108,5 +108,36 @@ https://www.registrocivil.org.br/ – Certidões de nascimento, casamento e óbi
 
 https://www.registrodeimoveis.org.br/ – Consultas e serviços de registro de imóveis no Brasil.
 
+https://www.consultaspublicas.com.br – Plataforma para participar de consultas públicas e audiências
+
+https://dados.gov.br – Portal com bases de dados abertos do Governo Federal
+
+https://www.portaltransparencia.gov.br – Consulta gastos públicos, servidores e benefícios sociais
+
+https://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Solicitacao.asp – Consulta pública de CNPJ na Receita Federal
+
+https://cadastroempresa.com.br – Informações e situação de empresas brasileiras
+
+https://cnpj.biz – Busca por CNPJ com dados de empresas e sócios
+
+https://www.jusbrasil.com.br – Acompanhamento de processos, jurisprudências e diários oficiais
+
+https://www.tse.jus.br – Consulta eleitoral, título de eleitor e situação eleitoral
+
+https://www.tjsp.jus.br – Site do Tribunal de Justiça de São Paulo (consultas processuais)
+
+https://www.tjac.jus.br – Tribunal de Justiça do Acre – Acesso a processos e serviços
+
+https://www.tjmg.jus.br – Tribunal de Justiça de Minas Gerais – Acesso a processos e certidões
+
+https://www.tjpr.jus.br – Tribunal de Justiça do Paraná – Consultas e serviços judiciais
+
+https://esaj.tjsp.jus.br – Sistema de processo eletrônico da Justiça de SP
+
+https://www.sintegra.gov.br – Verificação da inscrição estadual de empresas nos estados
+
+https://servicos.receita.fazenda.gov.br/Servicos/meuinss – Acesso a benefícios e informações do INSS
+
+
 
 
