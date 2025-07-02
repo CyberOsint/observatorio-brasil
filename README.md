@@ -105,6 +105,7 @@ https://antifraudebrasil.com/ – Localize pessoas e informações por CPF (vali
 https://tudosobretodos.info/ – Busque pessoas e empresas com muitas informações reunidas
 
 https://www.registrocivil.org.br/ – Certidões de nascimento, casamento e óbito.
+
 https://www.registrodeimoveis.org.br/ – Consultas e serviços de registro de imóveis no Brasil.
 
 
