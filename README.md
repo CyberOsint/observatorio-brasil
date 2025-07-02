@@ -1,7 +1,7 @@
 # observatorio-brasil
-🛰️ Coleta, organização e análise de dados públicos e fontes abertas no Brasil, aplicando técnicas de OSINT para fins investigativos, cívicos e de transparência.
+ Coleta, organização e análise de dados públicos e fontes abertas no Brasil, aplicando técnicas de OSINT para fins investigativos, cívicos e de transparência.
 
-# 🛰️ Observatório OSINT BR
+ Observatório OSINT BR
 
 Repositório dedicado à organização, análise e exploração de dados públicos brasileiros por meio de técnicas de OSINT (Open Source Intelligence).
 
@@ -9,7 +9,7 @@ Este projeto visa apoiar investigações, estudos cívicos e ações voltadas à
 
 ---
 
-## 🎯 Objetivos
+ Objetivos
 
 - Centralizar dados relevantes de fontes públicas brasileiras.
 - Aplicar técnicas de OSINT para análise de redes, localização, CPF (dados simulados ou públicos), entre outros.
@@ -18,7 +18,7 @@ Este projeto visa apoiar investigações, estudos cívicos e ações voltadas à
 
 ---
 
-## 🗂️ Estrutura do Repositório
+ Estrutura do Repositório
 
 | Pasta | Descrição |
 |-------|-----------|
@@ -35,7 +35,7 @@ Este projeto visa apoiar investigações, estudos cívicos e ações voltadas à
 
 ---
 
-## 📚 Fontes dos Dados
+ Fontes dos Dados
 
 - Portal da Transparência (CGU)
 - TSE – Tribunal Superior Eleitoral
@@ -47,7 +47,7 @@ Este projeto visa apoiar investigações, estudos cívicos e ações voltadas à
 
 ---
 
-## ⚖️ Licença e Ética
+Licença e Ética
 
 Este projeto respeita os princípios da **LGPD (Lei Geral de Proteção de Dados)** e visa apenas o uso ético de informações disponíveis publicamente. Nenhum dado sensível é coletado ou tratado sem amparo legal.
 
