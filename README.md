@@ -61,34 +61,27 @@ Categorias para Organização de Links OSINT (Brasil)
 
 # Categorias para Organização de Links OSINT (Brasil)
 
-### 3. Consultas Públicas e Dados Governamentais  
+### Consultas Públicas e Dados Governamentais  
 Sites oficiais com dados de CPF, CNPJ, tribunais, eleições, benefícios, entre outros.
 
-### 4. Ferramentas de Análise de Redes Sociais  
+### Ferramentas de Análise de Redes Sociais  
 Recursos para investigar perfis, conexões e conteúdos sociais no Brasil.
 
-### 5. Geoanálise e Dados Ambientais  
+### Geoanálise e Dados Ambientais  
 Fontes como INPE, MapBiomas, dados municipais e estaduais de geolocalização.
 
-### 6. Fontes Jurídicas e Processuais  
+###  Fontes Jurídicas e Processuais  
 Tribunais, diários oficiais, jurisprudência e sistemas de acompanhamento processual.
 
-### 7. Documentos e Registros Públicos  
+###  Documentos e Registros Públicos  
 Publicações oficiais, portais de transparência, boletins, licitações.
 
-### 8. Projetos Jornalísticos e Investigativos  
+### Projetos Jornalísticos e Investigativos  
 Iniciativas como Aos Fatos, Fiquem Sabendo, Infoamazonia, entre outros.
 
-### 9. Tutoriais e Treinamentos OSINT Brasil  
-Guias, vídeos, blogs e cursos nacionais sobre investigação com fontes abertas.
-
-### 10. Ferramentas Automatizadas e Dashboards  
+### Ferramentas Automatizadas e Dashboards  
 Sites que agregam múltiplas funções ou oferecem interfaces de análise.
 
 
-## Consultas Públicas e Dados Governamentais 
-https://www.escavador.com/ 
-https://antifraudebrasil.com/
-https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.
-https://www.cadcobol.com.br/calcula_cpf_cnpj_caepf.htm
+
 
