@@ -137,7 +137,58 @@ https://esaj.tjsp.jus.br – Sistema de processo eletrônico da Justiça de SP
 https://www.sintegra.gov.br – Verificação da inscrição estadual de empresas nos estados
 
 https://servicos.receita.fazenda.gov.br/Servicos/meuinss – Acesso a benefícios e informações do INSS
+# 🕵️ OSINT Toolkit
 
+Bem-vindo ao repositório de ferramentas OSINT. Escolha uma categoria para explorar.
+
+## 📂 Categorias
+
+- [🔍 Pessoas](#pessoas)
+- [🌐 Domínios](#domínios)
+- [📱 Redes Sociais](#redes-sociais)
+- [🎯 Geolocalização](#geolocalizacao)
+
+---
+
+## 🔍 Pessoas
+
+Ferramentas para investigação de indivíduos:
+
+- [Namecheckup](https://namecheckup.com/)
+- [Pimeyes](https://pimeyes.com/)
+- [That’s Them](https://thatsthem.com/)
+- [TruePeopleSearch](https://www.truepeoplesearch.com/)
+
+---
+
+## 🌐 Domínios
+
+Ferramentas para análise de domínios e DNS:
+
+- [Whois Lookup](https://whois.domaintools.com/)
+- [DNS Dumpster](https://dnsdumpster.com/)
+- [SecurityTrails](https://securitytrails.com/)
+
+---
+
+## 📱 Redes Sociais
+
+Ferramentas para monitorar e buscar perfis em redes sociais:
+
+- [Social Searcher](https://www.social-searcher.com/)
+- [Whopostedwhat](https://whopostedwhat.com/)
+- [IntelX](https://intelx.io/)
+
+---
+
+## 🎯 Geolocalização
+
+Ferramentas para localização por imagens ou metadados:
+
+- [Exiftool](https://exiftool.org/)
+- [GeoCreepy](https://github.com/ilektrojohn/creepy)
+- [Pic2Map](https://www.pic2map.com/)
+- 
 
 
 
