@@ -59,59 +59,81 @@ Para contribuições, sugestões ou colaborações, entre em contato via GitHub.
 
 Categorias para Organização de Links OSINT (Brasil)
 
+# 🕵️ OSINT Toolkit - Básico
 
-# 🕵️ OSINT Toolkit
+Coleção de ferramentas OSINT úteis para investigações online. Clique em uma categoria para navegar diretamente. 🚀
 
-Bem-vindo ao repositório de ferramentas OSINT. Escolha uma categoria para explorar.
+---
 
 ## 📂 Categorias
 
 - [🔍 Pessoas](#pessoas)
-- [🌐 Domínios](#domínios)
+- [🌐 Domínios & IP](#domínios--ip)
 - [📱 Redes Sociais](#redes-sociais)
-- [🎯 Geolocalização](#geolocalizacao)
+- [📸 Imagens & Metadados](#imagens--metadados)
+- [🛡️ Segurança & Vazamentos](#segurança--vazamentos)
 
 ---
 
 ## 🔍 Pessoas
 
-Ferramentas para investigação de indivíduos:
+Ferramentas para identificar ou investigar indivíduos:
 
-- [Namecheckup](https://namecheckup.com/)
-- [Pimeyes](https://pimeyes.com/)
-- [That’s Them](https://thatsthem.com/)
-- [TruePeopleSearch](https://www.truepeoplesearch.com/)
+- [Pimeyes](https://pimeyes.com/) – Reconhecimento facial reverso.
+- [That’s Them](https://thatsthem.com/) – Busca por nome, telefone, e-mail, etc.
+- [NameCheckup](https://namecheckup.com/) – Verifica usernames em diversas plataformas.
+- [TruePeopleSearch](https://www.truepeoplesearch.com/) – Busca pessoas nos EUA.
 
 ---
 
-## 🌐 Domínios
+## 🌐 Domínios & IP
 
-Ferramentas para análise de domínios e DNS:
+Investigação técnica e WHOIS:
 
-- [Whois Lookup](https://whois.domaintools.com/)
-- [DNS Dumpster](https://dnsdumpster.com/)
-- [SecurityTrails](https://securitytrails.com/)
+- [Whois Lookup](https://whois.domaintools.com/) – Informações de registro de domínio.
+- [DNSDumpster](https://dnsdumpster.com/) – Mapeamento de DNS público.
+- [SecurityTrails](https://securitytrails.com/) – Dados históricos e DNS.
+- [Shodan](https://www.shodan.io/) – Busca por dispositivos conectados à internet.
 
 ---
 
 ## 📱 Redes Sociais
 
-Ferramentas para monitorar e buscar perfis em redes sociais:
+Monitoramento e análise de redes sociais:
 
-- [Social Searcher](https://www.social-searcher.com/)
-- [Whopostedwhat](https://whopostedwhat.com/)
-- [IntelX](https://intelx.io/)
+- [Social Searcher](https://www.social-searcher.com/) – Busca por palavras-chave em redes sociais.
+- [Whopostedwhat](https://whopostedwhat.com/) – Busca por publicações antigas do Facebook.
+- [Foller.me](https://foller.me/) – Informações públicas sobre contas do Twitter.
+- [IntelX](https://intelx.io/) – Busca avançada por dados em redes sociais e arquivos vazados.
 
 ---
 
-## 🎯 Geolocalização
+## 📸 Imagens & Metadados
 
-Ferramentas para localização por imagens ou metadados:
+Análise de fotos, metadados e busca reversa:
 
-- [Exiftool](https://exiftool.org/)
-- [GeoCreepy](https://github.com/ilektrojohn/creepy)
-- [Pic2Map](https://www.pic2map.com/)
-- 
+- [ExifTool](https://exiftool.org/) – Ferramenta de linha de comando para metadados.
+- [FotoForensics](https://fotoforensics.com/) – Análise de manipulação de imagem.
+- [TinEye](https://tineye.com/) – Busca reversa de imagem.
+- [Google Images](https://images.google.com/) – Pesquisa reversa visual.
+
+---
+
+## 🛡️ Segurança & Vazamentos
+
+Verificação de vazamentos de dados, senhas comprometidas e exposições públicas:
+
+- [Have I Been Pwned](https://haveibeenpwned.com/) – Verifica e-mails vazados.
+- [Dehashed](https://www.dehashed.com/) – Busca em bancos de dados hackeados.
+- [LeakCheck](https://leakcheck.io/) – Verifica e-mails, senhas, IPs vazados.
+- [Scylla.sh](https://scylla.sh/) – Ferramenta de busca por exposições e dumps públicos.
+
+---
+
+
+
+
+
 
 
 
